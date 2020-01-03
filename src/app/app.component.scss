@@ -1,17 +1,19 @@
 .whole-page {
   padding: 0px;
   margin: 0px;
-  background-color: #99ffeb;
-  height: 100vh;
+  height: 100%;
+}
+
+.text-section {
+  margin-bottom: 20px;
 }
 
 .title-text {
-  height: 15%;
   margin: 0px 0px 40px 0px;
+  padding-top: 20px;
 }
 
 .top-text {
-  height: 15%;
   margin: 20px 0px 40px 0px;
 }
 
